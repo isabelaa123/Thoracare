@@ -7,11 +7,9 @@
 ## Echipa Thoracare
 
 ### Guzu Isabella-Elena
-<img src="isabella-guzu.jpg" width="300" alt="Guzu Isabella-Elena">
+### Guzu Isabella-Elena
 
-**Guzu Isabella-Elena**
-
-Documentare științifică, dezvoltarea conceptului Thoracare, alegerea senzorilor, proiectarea sistemului Hugging Shield și realizarea interfeței web.
+<img src="isabella-guzu.jpg.jpeg" width="300" alt="Guzu Isabella-Elena">
 
 Responsabilă de documentarea științifică, dezvoltarea conceptului Thoracare, alegerea și analiza senzorilor, proiectarea sistemului pneumatic Hugging Shield și realizarea interfeței web.
 
