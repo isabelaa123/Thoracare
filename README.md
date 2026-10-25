@@ -33,14 +33,6 @@ Responsabilă de realizarea circuitului electronic, programarea plăcilor ESP826
 
 **Liceul Tehnologic „Lazăr Edeleanu” Năvodari**  
 Clubul de Robotică Năvodari
-<p align="center">
-  <img src="sigla-liceu.png.jpeg" width="140" alt="Sigla Liceului Tehnologic Lazăr Edeleanu Năvodari">
-</p>
-
-<p align="center">
-  <strong>Liceul Tehnologic „Lazăr Edeleanu” Năvodari</strong><br>
-  Clubul de Robotică Năvodari
-</p>
 ---
 
 ## 1. Rezumat
