@@ -4,13 +4,32 @@
 
 ## Datele proiectului
 
-- **Autori:** Guzu Isabella-Elena și Stoian Ștefania
-- **Mentor:** Rădulescu Ramona
-- **Unitatea de învățământ:** Liceul Tehnologic „Lazăr Edeleanu” Năvodari
-- **Competiție vizată:** Concursul Național de Știință și Inginerie RoSEF
-- **Secțiune:** Științe aplicate, categoria B
-- **Domenii:** sisteme purtabile, senzori fiziologici, sisteme înglobate, comunicații Wi-Fi, pneumatică de joasă presiune, analiză multimodală
+## Echipa Thoracare
 
+### Guzu Isabella-Elena
+
+Responsabilă de documentarea științifică, dezvoltarea conceptului Thoracare, alegerea și analiza senzorilor, proiectarea sistemului pneumatic Hugging Shield și realizarea interfeței web.
+
+### Stoian Ștefania
+
+Responsabilă de realizarea circuitului electronic, programarea plăcilor ESP8266, comunicația Wi-Fi, integrarea senzorilor și testarea funcționării prototipului.
+
+### Activități realizate împreună
+
+- proiectarea arhitecturii generale;
+- integrarea componentelor în vestă;
+- testarea senzorilor și interpretarea datelor;
+- evaluarea siguranței sistemului pneumatic;
+- realizarea documentației și prezentarea proiectului.
+
+### Mentor
+
+**Rădulescu Ramona** – coordonarea metodologiei de cercetare, verificarea etapelor experimentale și sprijin pentru prezentarea științifică.
+
+### Instituție
+
+**Liceul Tehnologic „Lazăr Edeleanu” Năvodari**  
+Clubul de Robotică Năvodari
 ---
 
 ## 1. Rezumat
