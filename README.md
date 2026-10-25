@@ -7,7 +7,7 @@
 ## Echipa Thoracare
 
 ### Guzu Isabella-Elena
-<img src="isabella-guzu.jpg" width="300">
+<img src="isabella-guzu.jpg" width="300" alt="Guzu Isabella-Elena">
 
 **Guzu Isabella-Elena**
 
